@@ -46,5 +46,4 @@ streamlit run app.py
 
 ## 💖 Created By
 
-**Pratiksha Nawale (Pratu Baby)**  
-AI & Data Science Enthusiast 💡
+Pratiksha Nawale 
